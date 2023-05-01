@@ -8,3 +8,8 @@
 	url = https://github.com/cran/ManlyMix
 	shallow = true
 	registered = true
+[submodule "MatTransMix"]
+	path = MatTransMix
+	url = https://github.com/cran/MatTransMix
+	shallow = true
+	registered = true
