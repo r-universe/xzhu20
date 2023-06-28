@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ManlyMix"]
 	path = ManlyMix
 	url = https://github.com/cran/ManlyMix
-	shallow = true
-	registered = true
 [submodule "MatTransMix"]
 	path = MatTransMix
 	url = https://github.com/cran/MatTransMix
-	shallow = true
-	registered = true
