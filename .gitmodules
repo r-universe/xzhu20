@@ -5,6 +5,3 @@
 [submodule "ManlyMix"]
 	path = ManlyMix
 	url = https://github.com/cran/ManlyMix
-[submodule "MatTransMix"]
-	path = MatTransMix
-	url = https://github.com/cran/MatTransMix
